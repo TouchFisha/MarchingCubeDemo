@@ -1,7 +1,7 @@
-多线程MarchingCube算法Demo
+Multi Threading MarchingCube Demo
 
-Dependencies: Unity官方依赖(Windows -> Package Manager)
-Mathematics
-ShaderGraph
-Collections
-Burst
+Unity Dependencies: (Windows -> Package Manager)
+- Mathematics
+- ShaderGraph
+- Collections
+- Burst
