@@ -9,7 +9,6 @@ namespace NUtil.NMesh
     [Serializable]
     public struct MarchingCube
     {
-        public const Allocator allocator = Allocator.Temp;
         /// <summary>
         /// 计算区块边缘额外密度值范围设置为2，，用于计算 edge + 1 个顶点 以及顶点处的法向量
         /// </summary>
